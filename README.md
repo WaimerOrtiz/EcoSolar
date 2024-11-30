@@ -10,6 +10,8 @@ Desarrollador de negocios
 317 427 07 31
 waimerortiz@gmail.com
 
+![Imagen Moda]( https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/logo.jpg?raw=true)
+
 ## Identidad de Marca
 
 ### Misión
