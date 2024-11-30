@@ -13,6 +13,7 @@ waimerortiz@gmail.com
 ![Imagen Moda]( https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/logo.jpg?raw=true)
 
 ## Identidad de Marca
+![Imagen Moda](ttps://github.com/WaimerOrtiz/RidgasEnergy/blob/main/panel%20solar.jpg?raw=true)
 
 ### Misión
 Proveer soluciones energéticas sostenibles a través de sistemas solares fotovoltaicos accesibles y de alta calidad, impulsando un cambio hacia un futuro más limpio mientras ofrecemos un servicio cálido, eficiente y comprometido con la satisfacción de nuestros clientes.
