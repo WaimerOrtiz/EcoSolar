@@ -26,7 +26,7 @@ image_3.jpg
 
 logo.jpg
 
-
+panel solar.jpg
 
 
 - **Logo StableDiffusion**
