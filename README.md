@@ -150,3 +150,144 @@ El objetivo del lanzamiento de EcoSolar es aumentar el conocimiento de la marca 
 **Frecuencia de Publicación:**
 La frecuencia de publicación propuesta es de 3 veces por semana. Los lunes se destacará un producto, los miércoles se publicará un mensaje inspirador y los viernes se mostrará una imagen promocional.
 
+# EXPERIENCIA DE USUARIO
+
+## 1. Generación de Imágenes y Campañas Publicitarias
+
+**Imagen1_28**
+Con EcoSolar, la energía limpia y accesible está al alcance de todos. ¡Transforma tu hogar con nuestros sistemas solares de bajo costo y alta calidad!
+
+**Imagen2_28**
+Nuestros sistemas solares de baja potencia son perfectos para alimentar tus electrodomésticos esenciales. ¡Eficiencia y sostenibilidad en cada rayo de sol!
+
+**Imagen3_28**
+Disfruta de la autonomía energética con EcoSolar. Nuestros sistemas no conectados a red y respaldados en baterías te brindan seguridad y tranquilidad.
+
+**Imagen4_28**
+Si te preocupa el medio ambiente y buscas soluciones accesibles, EcoSolar es para ti. ¡Haz la diferencia con energía solar de calidad!
+
+**Imagen5_28**
+EcoSolar te ofrece una solución parcial al consumo de energía de red. ¡Aprovecha la energía solar para tus necesidades diarias y ahorra en tu factura de luz!
+
+## Temas para Publicaciones en Blog de EcoSolar
+
+1. **Tema 1**
+   - **Título:** Cómo EcoSolar Está Revolucionando la Energía Solar Accesible
+   - **Contenido:** Un artículo que destaque cómo EcoSolar está haciendo que la energía solar sea accesible para personas con moderados recursos, sin sacrificar la calidad.
+
+2. **Tema 2**
+   - **Título:** Beneficios de los Sistemas Solares de Baja Potencia
+   - **Contenido:** Una guía sobre los beneficios de los sistemas solares de baja potencia, incluyendo su eficiencia y cómo pueden ser utilizados para alimentar electrodomésticos esenciales.
+
+3. **Tema 3**
+   - **Título:** Autonomía Energética con EcoSolar: Sistemas No Conectados a Red
+   - **Contenido:** Un post que explique cómo los sistemas de EcoSolar, respaldados en baterías, ofrecen autonomía energética y seguridad.
+
+4. **Tema 4**
+   - **Título:** Conciencia Ambiental y Energía Solar: Una Combinación Perfecta
+   - **Contenido:** Un artículo que resalte cómo EcoSolar está ayudando a personas con conciencia socio-ambiental a adoptar soluciones de energía solar.
+
+5. **Tema 5**
+   - **Título:** EcoSolar: La Solución Parcial al Consumo de Energía de Red
+   - **Contenido:** Una publicación que explique cómo los sistemas de EcoSolar pueden complementar el consumo de energía de red, ahorrando costos y reduciendo la dependencia de la red eléctrica.
+
+## 2. Estrategia de Lanzamiento
+
+### Ideas de Contenido para la Campaña de Lanzamiento de EcoSolar
+
+1. **Idea 1: Productos de Bajo Costo**
+   - **Texto:** Con EcoSolar, la energía limpia y accesible está al alcance de todos. ¡Transforma tu hogar con nuestros sistemas solares de bajo costo y alta calidad!
+
+2. **Idea 2: Productos de Baja Potencia**
+   - **Texto:** Nuestros sistemas solares de baja potencia son perfectos para alimentar tus electrodomésticos esenciales. ¡Eficiencia y sostenibilidad en cada rayo de sol!
+
+3. **Idea 3: Productos No Conectados a Red y Respaldados en Baterías**
+   - **Texto:** Disfruta de la autonomía energética con EcoSolar. Nuestros sistemas no conectados a red y respaldados en baterías te brindan seguridad y tranquilidad.
+
+4. **Idea 4: Para Personas de Conciencia Socio-Ambiental Desarrollada y Moderados Recursos**
+   - **Texto:** Si te preocupa el medio ambiente y buscas soluciones accesibles, EcoSolar es para ti. ¡Haz la diferencia con energía solar de calidad!
+
+5. **Idea 5: Los SFV Están Diseñados para Ser una Solución Parcial al Consumo de Energía de Red**
+   - **Texto:** EcoSolar te ofrece una solución parcial al consumo de energía de red. ¡Aprovecha la energía solar para tus necesidades diarias y ahorra en tu factura de luz!
+
+### Publicaciones en un Blog de la Página de EcoSolar
+
+1. **Publicación 1: Cómo EcoSolar Está Revolucionando la Energía Solar Accesible**
+   - **Contenido:** Un artículo que destaque cómo EcoSolar está haciendo que la energía solar sea accesible para personas con moderados recursos, sin sacrificar la calidad.
+
+2. **Publicación 2: Beneficios de los Sistemas Solares de Baja Potencia**
+   - **Contenido:** Una guía sobre los beneficios de los sistemas solares de baja potencia, incluyendo su eficiencia y cómo pueden ser utilizados para alimentar electrodomésticos esenciales.
+
+3. **Publicación 3: Autonomía Energética con EcoSolar: Sistemas No Conectados a Red**
+   - **Contenido:** Un post que explique cómo los sistemas de EcoSolar, respaldados en baterías, ofrecen autonomía energética y seguridad.
+
+4. **Publicación 4: Conciencia Ambiental y Energía Solar: Una Combinación Perfecta**
+   - **Contenido:** Un artículo que resalte cómo EcoSolar está ayudando a personas con conciencia socio-ambiental a adoptar soluciones de energía solar.
+
+5. **Publicación 5: EcoSolar: La Solución Parcial al Consumo de Energía de Red**
+   - **Contenido:** Una publicación que explique cómo los sistemas de EcoSolar pueden complementar el consumo de energía de red, ahorrando costos y reduciendo la dependencia de la red eléctrica.
+
+### Videos Promocionales
+
+1. **Video 1: Transforma Tu Hogar con EcoSolar**
+   - **Contenido:** Un video que muestre la instalación de un sistema solar de EcoSolar en una casa modesta, destacando la accesibilidad y el bajo costo.
+
+2. **Video 2: Eficiencia y Sostenibilidad con EcoSolar**
+   - **Contenido:** Un video que explique cómo los sistemas de baja potencia de EcoSolar pueden alimentar electrodomésticos esenciales de manera eficiente.
+
+3. **Video 3: Autonomía Energética con EcoSolar**
+   - **Contenido:** Un video que muestre cómo los sistemas de EcoSolar, respaldados en baterías, ofrecen autonomía energética y seguridad.
+
+4. **Video 4: Conciencia Ambiental y Energía Solar**
+   - **Contenido:** Un video que resalte cómo EcoSolar está ayudando a personas con conciencia socio-ambiental a adoptar soluciones de energía solar.
+
+5. **Video 5: EcoSolar: La Solución Parcial al Consumo de Energía de Red**
+   - **Contenido:** Un video que explique cómo los sistemas de EcoSolar pueden complementar el consumo de energía de red, ahorrando costos y reduciendo la dependencia de la red eléctrica.
+
+## Perfiles de Usuario
+
+1. **Perfil 1: Familias de Clase Media con Conciencia Ambiental**
+   - **Descripción:** Familias que desean adoptar prácticas sostenibles pero tienen recursos limitados.
+   - **Temáticas de Mensajes:** Accesibilidad, calidad, sostenibilidad, ahorro de costos.
+   - **Perfil de Cliente:**
+     - **Nombre:** Juan y María Pérez
+     - **Edad:** 35-45 años
+     - **Ocupación:** Empleados de oficina
+     - **Ingresos:** Moderados
+     - **Intereses:** Sostenibilidad, ahorro de energía, vida familiar
+     - **Canales Preferidos:** Facebook, Instagram
+
+2. **Perfil 2: Jóvenes Profesionales con Conciencia Ambiental**
+   - **Descripción:** Jóvenes profesionales que buscan soluciones sostenibles y están dispuestos a invertir en tecnología verde.
+   - **Temáticas de Mensajes:** Innovación, sostenibilidad, eficiencia, autonomía energética.
+   - **Perfil de Cliente:**
+     - **Nombre:** Laura Gómez
+     - **Edad:** 25-35 años
+     - **Ocupación:** Ingeniera, diseñadora
+     - **Ingresos:** Moderados a altos
+     - **Intereses:** Tecnología verde, sostenibilidad, innovación
+     - **Canales Preferidos:** Instagram, Twitter
+
+3. **Perfil 3: Pequeños Empresarios con Conciencia Ambiental**
+   - **Descripción:** Dueños de pequeños negocios que desean reducir su huella de carbono y ahorrar en costos de energía.
+   - **Temáticas de Mensajes:** Ahorro de costos, sostenibilidad, eficiencia, autonomía energética.
+   - **Perfil de Cliente:**
+     - **Nombre:** Carlos Rodríguez
+     - **Edad:** 30-45 años
+     - **Ocupación:** Dueño de una pequeña tienda
+     - **Ingresos:** Moderados
+     - **Intereses:** Sostenibilidad, ahorro de energía, crecimiento del negocio
+     - **Canales Preferidos:** Facebook, LinkedIn
+
+4. **Perfil 4: Personas Mayores con Conciencia Ambiental**
+   - **Descripción:** Personas mayores que desean adoptar prácticas sostenibles y ahorrar en costos de energía.
+   - **Temáticas de Mensajes:** Accesibilidad, calidad, sostenibilidad, ahorro de costos.
+   - **Perfil de Cliente:**
+     - **Nombre:** Ana y Luis Martínez
+     - **Edad:** 55-65 años
+     - **Ocupación:** Jubilados
+     - **Ingresos:** Moderados
+     - **Intereses:** Sostenibilidad, ahorro de energía, vida familiar
+     - **Canales Preferidos:** Facebook
+
+
