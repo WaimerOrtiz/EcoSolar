@@ -12,7 +12,9 @@
 ### Logos generados con herramientas IA:
 
 - **Logo StableDiffusion**
+- logo_EcoSolar_StableDiffusion.jpg
 - **Logo Imagen3**
+- 
 - **Logo Leonardo**
 
 ### Logos en formato de imágenes sin fondo:
