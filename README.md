@@ -14,7 +14,7 @@
 - **Logo StableDiffusion**
 - logo_EcoSolar_StableDiffusion.jpg
 - **Logo Imagen3**
-- 
+- Logo_EcoSolar_Image3-removebg-preview.png
 - **Logo Leonardo**
 
 ### Logos en formato de imágenes sin fondo:
