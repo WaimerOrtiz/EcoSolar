@@ -1,4 +1,4 @@
-```markdown
+
 # ESTRATEGIA DE MARKETING
 
 ## Frases Publicitarias
@@ -121,5 +121,4 @@ El objetivo del lanzamiento de EcoSolar es aumentar el conocimiento de la marca 
 La frecuencia de publicación propuesta es de **3 veces por semana**.  
 - **Lunes:** Producto destacado.  
 - **Miércoles:** Mensaje inspirador.  
-- **Viernes:** Imagen promocional.
-```
+- **Viernes:** Imagen promocional
