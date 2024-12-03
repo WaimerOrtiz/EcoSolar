@@ -10,7 +10,7 @@
 **Logo:**
 
 ### Logos generados con herramientas IA:
-
+Imagen_1_28.jpg
 - **Logo StableDiffusion**
 - logo_EcoSolar_StableDiffusion.jpg
 - **Logo Imagen3**
