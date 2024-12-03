@@ -17,6 +17,7 @@ Imagen_4_28.jpg
 Imagen_5_28.jpg
 
 Producto_1.png
+Producto_2.png
 
 
 
