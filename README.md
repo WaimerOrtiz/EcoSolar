@@ -29,6 +29,7 @@ logo_EcoSolar_Leonardo.jpg
 ### Logos editados con Canva:
 
 - **Logo StableDiffusion_C**
+- logo_EcoSolar_StableDiffusion_Canva.png
 - **Logo Imagen3_C**
 - **Logo Leonardo_C**
 
