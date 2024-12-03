@@ -33,6 +33,7 @@ logo_EcoSolar_Leonardo.jpg
 - **Logo Imagen3_C**
 - Logo_EcoSolar_Image3_Canva.png
 - **Logo Leonardo_C**
+logo_EcoSolar_Leonardo_Canva.png
 
 ## 2. Identidad de Marca
 
