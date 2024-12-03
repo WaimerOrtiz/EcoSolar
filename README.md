@@ -12,6 +12,7 @@
 ### Logos generados con herramientas IA:
 Imagen_1_28.jpg
 Imagen_2_28.jpg
+Imagen_3_28.jpg
 
 
 
