@@ -10,19 +10,6 @@
 **Logo:**
 
 ### Logos generados con herramientas IA:
-Imagen_1_28.jpg
-Imagen_2_28.jpg
-Imagen_3_28.jpg
-Imagen_4_28.jpg
-Imagen_5_28.jpg
-
-Producto_1.png
-Producto_2.png
-Producto_3.jpg
-
-image_1.jpg
-image_2.jpg
-image_3.jpg
 
 logo.jpg
 
@@ -109,16 +96,20 @@ Esta frase enfatiza la calidad y la innovación de los productos de EcoSolar, re
 ## Imágenes Promocionales
 
 **Imagen Promocional 1:**
+image_1.jpg
 
 **Frase Promocional 1:**
 "Con EcoSolar, cada hogar puede ser parte de la revolución verde."
 
 **Imagen Promocional 2:**
+image_2.jpg
 
 **Frase Promocional 2:**
 "EcoSolar: Energía limpia y accesible para tu familia."
 
 **Imagen Promocional 3:**
+image_3.jpg
+
 
 **Frase Promocional 3:**
 "EcoSolar: Innovación y sostenibilidad en cada rincón de la ciudad."
@@ -126,16 +117,20 @@ Esta frase enfatiza la calidad y la innovación de los productos de EcoSolar, re
 ## Imágenes de Productos
 
 **Imagen Producto 1:**
+Producto_1.png
 
 **Descripción Producto 1:**
 Los sistemas solares fotovoltaicos de baja potencia (200 Wp a 1500 Wp) aportan energía para ciertos electrodomésticos, respaldados en baterías de GEL. No requieren cambiar el medidor y tienen un bajo costo, con buena calidad de componentes y materiales.
 
 **Imagen Producto 2:**
+Producto_2.png
+
 
 **Descripción Producto 2:**
 Los SFV de EcoSolar entregan su energía en sus propios puntos de consumo, sin intervenir la instalación eléctrica de la vivienda. Los clientes pueden conectar sus electrodomésticos en estos puntos o en los de la red convencional.
 
 **Imagen Producto 3:**
+Producto_3.jpg
 
 **Descripción Producto 3:**
 Los SFV de EcoSolar no devuelven energía a la red y tienen sus propios puntos de entrega de energía, asegurando que los clientes puedan utilizar la energía solar de manera eficiente y sostenible.
@@ -181,18 +176,23 @@ La frecuencia de publicación propuesta es de 3 veces por semana. Los lunes se d
 ## 1. Generación de Imágenes y Campañas Publicitarias
 
 **Imagen1_28**
+Imagen_1_28.jpg
 Con EcoSolar, la energía limpia y accesible está al alcance de todos. ¡Transforma tu hogar con nuestros sistemas solares de bajo costo y alta calidad!
 
 **Imagen2_28**
+Imagen_2_28.jpg
 Nuestros sistemas solares de baja potencia son perfectos para alimentar tus electrodomésticos esenciales. ¡Eficiencia y sostenibilidad en cada rayo de sol!
 
 **Imagen3_28**
+Imagen_3_28.jpg
 Disfruta de la autonomía energética con EcoSolar. Nuestros sistemas no conectados a red y respaldados en baterías te brindan seguridad y tranquilidad.
 
 **Imagen4_28**
+Imagen_4_28.jpg
 Si te preocupa el medio ambiente y buscas soluciones accesibles, EcoSolar es para ti. ¡Haz la diferencia con energía solar de calidad!
 
 **Imagen5_28**
+Imagen_5_28.jpg
 EcoSolar te ofrece una solución parcial al consumo de energía de red. ¡Aprovecha la energía solar para tus necesidades diarias y ahorra en tu factura de luz!
 
 ## Temas para Publicaciones en Blog de EcoSolar
