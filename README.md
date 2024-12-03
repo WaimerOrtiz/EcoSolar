@@ -20,6 +20,12 @@ Producto_1.png
 Producto_2.png
 Producto_3.jpg
 
+image_1.jpg
+
+
+
+
+
 
 
 - **Logo StableDiffusion**
