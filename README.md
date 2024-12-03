@@ -291,3 +291,142 @@ EcoSolar te ofrece una solución parcial al consumo de energía de red. ¡Aprove
      - **Canales Preferidos:** Facebook
 
 
+# EXPERIENCIA DE USUARIO
+
+## Perfiles de Usuario
+
+### Perfil 5: Estudiantes Universitarios con Conciencia Ambiental
+
+**Descripción:** Estudiantes universitarios que buscan soluciones sostenibles y están dispuestos a invertir en tecnología verde.
+
+**Temáticas de Mensajes:** Innovación, sostenibilidad, eficiencia, autonomía energética.
+
+**Perfil de Cliente:**
+- **Nombre:** Sofía López
+- **Edad:** 18-25 años
+- **Ocupación:** Estudiante de ingeniería
+- **Ingresos:** Moderados
+- **Intereses:** Tecnología verde, sostenibilidad, innovación
+- **Canales Preferidos:** Instagram, Twitter
+
+## Plan de Publicaciones para las Primeras Semanas
+
+### Recomendaciones Personalizadas de Publicaciones
+
+1. **Publicación 1: Familias de Clase Media con Conciencia Ambiental**
+   - **Publicación:** Imagen de una familia instalando paneles solares de EcoSolar en su casa modesta.
+   - **Texto:** "Con EcoSolar, la energía limpia y accesible está al alcance de todos. ¡Transforma tu hogar con nuestros sistemas solares de bajo costo y alta calidad!"
+   - **Fecha y Hora:** 03/12/2024, 10:00 AM (Facebook)
+
+2. **Publicación 2: Jóvenes Profesionales con Conciencia Ambiental**
+   - **Publicación:** Video promocional "Eficiencia y Sostenibilidad con EcoSolar".
+   - **Texto:** "Nuestros sistemas solares de baja potencia son perfectos para alimentar tus electrodomésticos esenciales. ¡Eficiencia y sostenibilidad en cada rayo de sol!"
+   - **Fecha y Hora:** 05/12/2024, 2:00 PM (Instagram)
+
+3. **Publicación 3: Pequeños Empresarios con Conciencia Ambiental**
+   - **Publicación:** Blog post "Autonomía Energética con EcoSolar: Sistemas No Conectados a Red".
+   - **Texto:** "Disfruta de la autonomía energética con EcoSolar. Nuestros sistemas no conectados a red y respaldados en baterías te brindan seguridad y tranquilidad."
+   - **Fecha y Hora:** 07/12/2024, 11:00 AM (LinkedIn)
+
+4. **Publicación 4: Personas Mayores con Conciencia Ambiental**
+   - **Publicación:** Imagen de una persona mayor instalando paneles solares de EcoSolar en su casa.
+   - **Texto:** "Si te preocupa el medio ambiente y buscas soluciones accesibles, EcoSolar es para ti. ¡Haz la diferencia con energía solar de calidad!"
+   - **Fecha y Hora:** 10/12/2024, 3:00 PM (Facebook)
+
+5. **Publicación 5: Estudiantes Universitarios con Conciencia Ambiental**
+   - **Publicación:** Video promocional "Conciencia Ambiental y Energía Solar".
+   - **Texto:** "EcoSolar te ofrece una solución parcial al consumo de energía de red. ¡Aprovecha la energía solar para tus necesidades diarias y ahorra en tu factura de luz!"
+   - **Fecha y Hora:** 12/12/2024, 12:00 PM (Twitter)
+
+## Calendario de Publicaciones
+
+### Mejores Días y Horas para Publicaciones en Redes Sociales
+
+- **Facebook:** Lunes, miércoles y viernes a las 10:00 AM y 3:00 PM.
+- **Instagram:** Martes, jueves y sábado a las 2:00 PM y 6:00 PM.
+- **Twitter:** Lunes, miércoles y viernes a las 12:00 PM y 5:00 PM.
+
+### Tabla de Publicaciones
+
+| Núm | Contenido                                      | Fecha y Hora de Publicación | Red Social | Público Objetivo                |
+|-----|------------------------------------------------|----------------------------|------------|---------------------------------|
+| 1   | Imagen de familia instalando paneles solares    | 03/12/2024, 10:00 AM      | Facebook  | Familias de clase media         |
+| 2   | Video "Eficiencia y Sostenibilidad con EcoSolar"| 05/12/2024, 2:00 PM       | Instagram | Jóvenes profesionales           |
+| 3   | Blog post "Autonomía Energética con EcoSolar" | 07/12/2024, 11:00 AM      | LinkedIn  | Pequeños empresarios           |
+| 4   | Imagen de persona mayor instalando paneles solares | 10/12/2024, 3:00 PM       | Facebook  | Personas mayores                |
+| 5   | Video "Conciencia Ambiental y Energía Solar"   | 12/12/2024, 12:00 PM      | Twitter   | Estudiantes universitarios      |
+| 6   | Imagen de sistema solar alimentando electrodomésticos | 14/12/2024, 1:00 PM       | Instagram | Jóvenes profesionales           |
+| 7   | Blog post "Beneficios de los Sistemas Solares de Baja Potencia" | 17/12/2024, 4:00 PM       | Facebook  | Familias de clase media         |
+| 8   | Imagen de sistema solar en casa modesta         | 19/12/2024, 5:00 PM       | Instagram | Personas mayores                |
+| 9   | Video "EcoSolar: La Solución Parcial al Consumo de Energía de Red" | 21/12/2024, 6:00 PM       | Twitter   | Estudiantes universitarios      |
+
+## Estrategia de Marketing
+
+**Objetivo del Lanzamiento:**
+El objetivo del lanzamiento de EcoSolar es aumentar el conocimiento de la marca y conectar con el público objetivo, destacando la accesibilidad, calidad y sostenibilidad de sus productos.
+
+**Tipos de Contenido:**
+- Frases publicitarias que resalten los valores de la marca.
+- Imágenes promocionales que muestren la misión, visión y valores de la marca.
+- Imágenes de productos que destaquen la calidad y eficiencia de los sistemas solares fotovoltaicos de EcoSolar.
+- Videos promocionales que expliquen los beneficios y características de los productos.
+- Publicaciones en el blog que profundicen en temas relacionados con la energía solar y la sostenibilidad.
+
+**Plataformas:**
+- Facebook
+- Instagram
+- Twitter
+- LinkedIn
+- Blog de la página web de EcoSolar
+
+**Frecuencia de Publicación:**
+La frecuencia de publicación propuesta es de 3 veces por semana. Los lunes se destacará un producto, los miércoles se publicará un mensaje inspirador y los viernes se mostrará una imagen promocional.
+
+## Creación de Experiencia Personalizada con IA
+
+### Recomendación de Productos para Perfiles de Clientes
+
+1. **Producto 1:**
+   - **Cliente:** Familias de Clase Media con Conciencia Ambiental
+   - **Producto Recomendado:** Kit SFV de 0.64 kWp
+   - **Razón:** Este kit es ideal para familias que desean alimentar electrodomésticos esenciales como una nevera pequeña, un televisor y algunos bombillos. Ofrece un buen equilibrio entre costo y eficiencia.
+
+2. **Producto 2:**
+   - **Cliente:** Jóvenes Profesionales con Conciencia Ambiental
+   - **Producto Recomendado:** Kit SFV de 0.99 kWp
+   - **Razón:** Este kit es adecuado para jóvenes profesionales que buscan una solución más robusta para alimentar varios electrodomésticos y dispositivos electrónicos, como un computador y un sistema de iluminación.
+
+3. **Producto 3:**
+   - **Cliente:** Pequeños Empresarios con Conciencia Ambiental
+   - **Producto Recomendado:** Kit SFV de 1.32 kWp
+   - **Razón:** Este kit es ideal para pequeños negocios que necesitan alimentar varios equipos electrónicos y electrodomésticos, proporcionando una solución eficiente y sostenible.
+
+4. **Producto 4:**
+   - **Cliente:** Personas Mayores con Conciencia Ambiental
+   - **Producto Recomendado:** Kit SFV de 0.33 kWp
+   - **Razón:** Este kit es perfecto para personas mayores que desean alimentar algunos electrodomésticos básicos y bombillos, ofreciendo una solución accesible y eficiente.
+
+5. **Producto 5:**
+   - **Cliente:** Estudiantes Universitarios con Conciencia Ambiental
+   - **Producto Recomendado:** Kit SFV de 0.88 kWp
+   - **Razón:** Este kit es adecuado para estudiantes universitarios que buscan una solución para alimentar varios dispositivos electrónicos y algunos electrodomésticos, como un computador y un sistema de iluminación.
+
+### Simulación de Selección de Producto con IA
+
+**Escenario:**
+Un cliente potencial visita la página web de EcoSolar y utiliza el asistente virtual para seleccionar el producto adecuado.
+
+**Interacción con el Asistente Virtual:**
+
+1. **Asistente Virtual:** ¡Hola! Bienvenido a EcoSolar. ¿Cómo puedo ayudarte hoy?
+2. **Cliente:** Estoy interesado en adquirir un sistema solar fotovoltaico para mi hogar.
+3. **Asistente Virtual:** ¡Genial! Para ayudarte a seleccionar el kit adecuado, necesito saber algunos detalles. ¿Cuántos electrodomésticos planeas alimentar con el sistema solar?
+4. **Cliente:** Quiero alimentar una nevera pequeña, un televisor, un computador y algunos bombillos.
+5. **Asistente Virtual:** Perfecto. ¿Tienes alguna preferencia en cuanto a la potencia del kit? Nuestros kits van desde 0.24 kWp hasta 1.5 kWp.
+6. **Cliente:** No estoy seguro, ¿cuál me recomiendas?
+7. **Asistente Virtual:** Basado en tus necesidades, te recomiendo el Kit SFV de 0.99 kWp. Este kit es ideal para alimentar varios electrodomésticos y dispositivos electrónicos, ofreciendo un buen equilibrio entre costo y eficiencia.
+8. **Cliente:** Suena bien. ¿Cuál es el costo y la disponibilidad de este kit?
+9. **Asistente Virtual:** El Kit SFV de 0.99 kWp tiene un costo de [precio] y está actualmente disponible. ¿Te gustaría proceder con la compra o necesitas más información?
+10. **Cliente:** Me gustaría proceder con la compra.
+11. **Asistente Virtual:** ¡Excelente! Te redirigiré a nuestra página de compras para que puedas completar tu pedido. ¿Tienes alguna otra pregunta?
+
