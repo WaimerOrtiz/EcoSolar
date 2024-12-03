@@ -20,6 +20,7 @@ logo_EcoSolar_Leonardo.jpg
 ### Logos en formato de imágenes sin fondo:
 
 - **Logo StableDiffusion_S_F**
+- logo_EcoSolar_StableDiffusion-removebg-preview.png
 - **Logo Imagen3_S_F**
 - **Logo Leonardo_S_F**
 
