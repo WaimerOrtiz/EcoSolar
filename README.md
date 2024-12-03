@@ -617,3 +617,58 @@ Dado que no puedo acceder a herramientas externas como SurveyMonkey o Typeform, 
     - No estoy seguro
     - Probablemente no
     - Definitivamente no
+   
+12. **¿Qué tan probable es que vuelvas a comprar un producto de EcoSolar en el futuro?**
+   - Muy probable
+   - Probable
+   - Neutral
+   - Improbable
+   - Muy improbable
+
+## Sección 5: Comentarios Adicionales
+
+13. **¿Tienes algún comentario o sugerencia adicional que te gustaría compartir con nosotros?**
+   - Campo de texto abierto
+
+# Pautas para Analizar y Ajustar la Estrategia de Marketing
+
+## 1. Análisis de Datos de la Encuesta
+
+- **Segmentación de Clientes:** Analiza las respuestas según la edad, género e ingresos para identificar segmentos específicos de clientes y sus necesidades.
+- **Fuentes de Información:** Identifica las principales fuentes a través de las cuales los clientes se enteraron de EcoSolar para optimizar los canales de marketing.
+- **Motivaciones de Compra:** Evalúa las motivaciones de los clientes para visitar la página web y adquirir productos, ajustando los mensajes de marketing para alinearse con estas motivaciones.
+
+## 2. Mejora de Contenidos de Anuncios y Publicaciones
+
+- **Personalización de Mensajes:** Utiliza la información de la encuesta para personalizar los mensajes de marketing, destacando los aspectos que más valoran los clientes (calidad, eficiencia, precio, etc.).
+- **Testimonios y Casos de Éxito:** Incluye testimonios de clientes satisfechos y casos de éxito en tus anuncios y publicaciones para generar confianza y credibilidad.
+- **Contenido Educativo:** Publica contenido educativo sobre los beneficios de la energía solar y cómo los productos de EcoSolar pueden satisfacer las necesidades específicas de los clientes.
+- **Ofertas y Promociones:** Diseña ofertas y promociones basadas en las preferencias y necesidades identificadas en la encuesta.
+
+## 3. Optimización de Canales de Marketing
+
+- **Redes Sociales:** Ajusta la frecuencia y el tipo de publicaciones en redes sociales según las preferencias de los clientes. Por ejemplo, si los clientes prefieren ver videos educativos, enfócate en crear más contenido de video.
+- **SEO y SEM:** Optimiza tu estrategia de SEO y SEM basada en las palabras clave y términos de búsqueda que utilizan los clientes para encontrar información sobre energía solar.
+- **Email Marketing:** Segmenta tu lista de correos electrónicos y envía contenido personalizado basado en las respuestas de la encuesta.
+
+## 4. Monitoreo y Ajuste Continuo
+
+- **Monitoreo de Métricas:** Utiliza herramientas como Google Analytics y HubSpot para monitorear el rendimiento de tus campañas de marketing y ajustar las estrategias según sea necesario.
+- **Feedback Continuo:** Continúa recopilando feedback de los clientes a través de encuestas y redes sociales para ajustar y mejorar continuamente tu estrategia de marketing.
+
+# Ejemplo de Calendario de Publicaciones
+
+## Tabla 2
+
+| Día       | Hora       | Red Social | Contenido                                                                 | Público Objetivo                |
+|-----------|------------|------------|--------------------------------------------------------------------------|---------------------------------|
+| Lunes     | 10:00 AM   | Facebook  | Publicación sobre los beneficios de la energía solar                     | Familias de clase media         |
+| Miércoles | 2:00 PM    | Instagram | Video promocional "Eficiencia y Sostenibilidad con EcoSolar"            | Jóvenes profesionales           |
+| Viernes   | 11:00 AM   | LinkedIn  | Blog post "Autonomía Energética con EcoSolar: Sistemas No Conectados a Red" | Pequeños empresarios           |
+| Lunes     | 3:00 PM    | Facebook  | Imagen de una persona mayor instalando paneles solares                   | Personas mayores                |
+| Miércoles | 12:00 PM   | Twitter   | Video "Conciencia Ambiental y Energía Solar"                             | Estudiantes universitarios      |
+| Viernes   | 1:00 PM    | Instagram | Imagen de sistema solar alimentando electrodomésticos                     | Jóvenes profesionales           |
+| Lunes     | 4:00 PM    | Facebook  | Blog post "Beneficios de los Sistemas Solares de Baja Potencia"          | Familias de clase media         |
+| Miércoles | 6:00 PM    | Instagram | Imagen de sistema solar en casa modesta                                  | Personas mayores                |
+| Viernes   | 5:00 PM    | Twitter   | Video "EcoSolar: La Solución Parcial al Consumo de Energía de Red"       | Estudiantes universitarios      |
+
