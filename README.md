@@ -21,7 +21,7 @@
 - **Logo Imagen3**
 <img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3.png?raw=true" alt="Imagen" widht="200" height="150">
 - **Logo Leonardo**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 ### Logos en formato de imágenes sin fondo:
 
