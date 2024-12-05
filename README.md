@@ -19,6 +19,10 @@ https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_1_28.jpg?raw=true
 
 ![Imagen](https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_1_28.jpg?raw=true)
 
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_1_28.jpg?raw=true" alt="Imagen" width="200" height="150">
+
+
+
 
 - **Logo StableDiffusion**
 - logo_EcoSolar_StableDiffusion.jpg
