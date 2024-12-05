@@ -15,6 +15,7 @@ logo.jpg
 
 panel solar.jpg
 
+https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_1_28.jpg?raw=true
 
 - **Logo StableDiffusion**
 - logo_EcoSolar_StableDiffusion.jpg
