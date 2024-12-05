@@ -23,16 +23,24 @@ panel solar.jpg
 <img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_5_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 <img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_StableDiffusion-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
 
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_StableDiffusion_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
 
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_StableDiffusion.png?raw=true" alt="Imagen" widht="200" height="150">
 
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Producto_1.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Producto_2.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Producto_3.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/image_1.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/image_2.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/image_3.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 
 - **Logo StableDiffusion**
