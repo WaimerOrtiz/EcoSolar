@@ -18,6 +18,18 @@ panel solar.jpg
 
 <img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_1_28.jpg?raw=true" alt="Imagen" width="200" height="150">
 <img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_3_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_4_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_5_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+
 
 
 
