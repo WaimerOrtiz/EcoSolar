@@ -7,32 +7,16 @@
 
 **Eslogan:** Energía limpia al alcance de todos.
 
-**Logo:**
-
-- **Logo Imagen3**
+**Logo generado con Imagen3**
 <img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Image3.png?raw=true" alt="Imagen" widht="200" height="150">
 
-### Logos en formato de imágenes sin fondo:
+### Logo sin fondo:
 
-- **Logo StableDiffusion_S_F**
-<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_StableDiffusion-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
-
-- **Logo Imagen3_S_F**
 <img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Image3-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
 
-- **Logo Leonardo_S_F**
-<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Leonardo-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
+### Logo editado con Canva:
 
-### Logos editados con Canva:
-
-- **Logo StableDiffusion_C**
-<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_StableDiffusion_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
-
-- **Logo Imagen3_C**
 <img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Image3_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
-
-- **Logo Leonardo_C**
-<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Leonardo_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
 
 
 ## 2. Identidad de Marca
