@@ -8,6 +8,7 @@
 **Eslogan:** Energía limpia al alcance de todos.
 
 **Logo generado con Imagen3**
+
 <img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Image3.png?raw=true" alt="Imagen" widht="200" height="150">
 
 ### Logo sin fondo:
