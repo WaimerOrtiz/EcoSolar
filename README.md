@@ -9,11 +9,6 @@
 
 **Logo:**
 
-<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/logo.jpg?raw=true" alt="Imagen" widht="200" height="150">
-
-<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/panel solar.jpg?raw=true" alt="Imagen" widht="200" height="150">
-
-
 ### Logos generados con herramientas IA:
 
 - **Logo StableDiffusion**
