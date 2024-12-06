@@ -9,43 +9,43 @@
 
 **Logo:**
 
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/logo.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/logo.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/panel solar.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/panel solar.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 
 ### Logos generados con herramientas IA:
 
 - **Logo StableDiffusion**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_StableDiffusion.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_StableDiffusion.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 - **Logo Imagen3**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Image3.png?raw=true" alt="Imagen" widht="200" height="150">
 
 - **Logo Leonardo**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Leonardo.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 ### Logos en formato de imágenes sin fondo:
 
 - **Logo StableDiffusion_S_F**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_StableDiffusion-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_StableDiffusion-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
 
 - **Logo Imagen3_S_F**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Image3-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
 
 - **Logo Leonardo_S_F**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Leonardo-removebg-preview.png?raw=true" alt="Imagen" widht="200" height="150">
 
 ### Logos editados con Canva:
 
 - **Logo StableDiffusion_C**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_StableDiffusion_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_StableDiffusion_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
 
 - **Logo Imagen3_C**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Image3_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Image3_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
 
 - **Logo Leonardo_C**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Logo_EcoSolar_Leonardo_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Logo_EcoSolar_Leonardo_Canva.png?raw=true" alt="Imagen" widht="200" height="150">
 
 
 ## 2. Identidad de Marca
@@ -104,19 +104,19 @@ Esta frase enfatiza la calidad y la innovación de los productos de EcoSolar, re
 ## Imágenes Promocionales
 
 **Imagen Promocional 1:**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/image_1.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/image_1.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 **Frase Promocional 1:**
 "Con EcoSolar, cada hogar puede ser parte de la revolución verde."
 
 **Imagen Promocional 2:**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/image_2.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/image_2.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 **Frase Promocional 2:**
 "EcoSolar: Energía limpia y accesible para tu familia."
 
 **Imagen Promocional 3:**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/image_3.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/image_3.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 
 **Frase Promocional 3:**
@@ -125,19 +125,19 @@ Esta frase enfatiza la calidad y la innovación de los productos de EcoSolar, re
 ## Imágenes de Productos
 
 **Imagen Producto 1:**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Producto_1.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Producto_1.png?raw=true" alt="Imagen" widht="200" height="150">
 
 **Descripción Producto 1:**
 Los sistemas solares fotovoltaicos de baja potencia (200 Wp a 1500 Wp) aportan energía para ciertos electrodomésticos, respaldados en baterías de GEL. No requieren cambiar el medidor y tienen un bajo costo, con buena calidad de componentes y materiales.
 
 **Imagen Producto 2:**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Producto_2.png?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Producto_2.png?raw=true" alt="Imagen" widht="200" height="150">
 
 **Descripción Producto 2:**
 Los SFV de EcoSolar entregan su energía en sus propios puntos de consumo, sin intervenir la instalación eléctrica de la vivienda. Los clientes pueden conectar sus electrodomésticos en estos puntos o en los de la red convencional.
 
 **Imagen Producto 3:**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Producto_3.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Producto_3.jpg?raw=true" alt="Imagen" widht="200" height="150">
 
 **Descripción Producto 3:**
 Los SFV de EcoSolar no devuelven energía a la red y tienen sus propios puntos de entrega de energía, asegurando que los clientes puedan utilizar la energía solar de manera eficiente y sostenible.
@@ -183,23 +183,23 @@ La frecuencia de publicación propuesta es de 3 veces por semana. Los lunes se d
 ## 1. Generación de Imágenes y Campañas Publicitarias
 
 **Imagen1_28**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_1_28.jpg?raw=true" alt="Imagen" width="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Imagen_1_28.jpg?raw=true" alt="Imagen" width="200" height="150">
 Con EcoSolar, la energía limpia y accesible está al alcance de todos. ¡Transforma tu hogar con nuestros sistemas solares de bajo costo y alta calidad!
 
 **Imagen2_28**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Imagen_2_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
 Nuestros sistemas solares de baja potencia son perfectos para alimentar tus electrodomésticos esenciales. ¡Eficiencia y sostenibilidad en cada rayo de sol!
 
 **Imagen3_28**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_3_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Imagen_3_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
 Disfruta de la autonomía energética con EcoSolar. Nuestros sistemas no conectados a red y respaldados en baterías te brindan seguridad y tranquilidad.
 
 **Imagen4_28**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_4_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Imagen_4_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
 Si te preocupa el medio ambiente y buscas soluciones accesibles, EcoSolar es para ti. ¡Haz la diferencia con energía solar de calidad!
 
 **Imagen5_28**
-<img src="https://github.com/WaimerOrtiz/RidgasEnergy/blob/main/Imagen_5_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
+<img src="https://github.com/WaimerOrtiz/EcoSolar/blob/main/Imagen_5_28.jpg?raw=true" alt="Imagen" widht="200" height="150">
 EcoSolar te ofrece una solución parcial al consumo de energía de red. ¡Aprovecha la energía solar para tus necesidades diarias y ahorra en tu factura de luz!
 
 ## Temas para Publicaciones en Blog de EcoSolar
